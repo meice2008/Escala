@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Usuario\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\Usuario\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.pdb
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Usuario\source\repos\teste\teste\obj\Debug\teste.csproj.ResolveComReference.cache
